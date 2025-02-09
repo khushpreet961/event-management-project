@@ -2,10 +2,9 @@
   "name": "event-management-project",
   "version": "1.0.0",
   "description": "This is event management project using MERN Technologies",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
     "dev":"nodemon server.js"
   },
   "keywords": [],
