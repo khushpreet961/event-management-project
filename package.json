@@ -1,11 +1,14 @@
 {
+  "engines": {
+    "node": "v20.15.1"
+  },
   "name": "event-management-project",
   "version": "1.0.0",
   "description": "This is event management project using MERN Technologies",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
+    "dev": "node server.js"
   },
   "keywords": [],
   "author": "",
